@@ -1,1 +1,1 @@
-# Sparta-Jenkins-Starter-App
+# Sparta Jenkins Starter App
