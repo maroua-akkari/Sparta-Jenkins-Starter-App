@@ -1,3 +1,2 @@
 # Sparta Jenkins Starter App
-new add
-more changes
+This file has been edited
